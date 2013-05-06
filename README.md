@@ -1,6 +1,6 @@
 # jcrop-rails
 
-This gem provides the Jcrop jQuery plugin for your Rails 3.1 app.
+This gem provides the Jcrop jQuery plugin for your Rails app.
 
 For more information about Jcrop, visit http://deepliquid.com/content/Jcrop.html
 
